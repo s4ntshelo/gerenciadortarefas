@@ -9,7 +9,7 @@ footer{
 }
 
 footer .colegio{
-    background-color: crimson;
+    background-color: rgb(243, 164, 180);
     width: 50%;
 }
 
@@ -21,7 +21,7 @@ footer .colegio .nomeColegio{
 }
 
 footer .desenvolvedor{
-    background-color: deeppink;
+    background-color: rgb(243, 164, 180);
     width: 50%;
     height: 150px;
     display: flex;

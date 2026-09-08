@@ -31,7 +31,7 @@ function Sobre(){
                         <p className='descrição'>
                             Sou escritora de livros em uma plataforma digital há 1 ano.
                         </p>
-                    </article>
+                    </article>export default Sobre;
                     <article>
                         <h2>Música</h2>
                         <img src={musica} />

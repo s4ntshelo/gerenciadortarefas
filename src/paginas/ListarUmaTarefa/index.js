@@ -27,4 +27,4 @@ function ListarUmaTarefa() {
         </section>
     )
 }
-export default ListarUmaTarefa
+export default ListarUmaTarefa;

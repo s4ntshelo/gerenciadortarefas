@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import './index.css';
-import tarefa from '../../mook/tarefas'
 import tarefas from '../../mook/tarefas';
 import { useNavigate } from 'react-router-dom';
 

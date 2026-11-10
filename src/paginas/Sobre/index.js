@@ -34,7 +34,7 @@ function Sobre(){
                     </article>export default Sobre;
                     <article>
                         <h2>Música</h2>
-                        <img src={musica} />
+                        <img src={musica} alt="Habilidade de musica"/>
                         <p className='descrição'>
                             Gosto muito de escutar música.
                         </p>

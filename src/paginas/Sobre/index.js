@@ -14,20 +14,20 @@ function Sobre(){
             </header> 
             <section>
                 <div className='fotoPerfil'>
-                    <img className='fotoPerfil' src={fotoPerfil} />
+                    <img className='fotoPerfil' src={fotoPerfil} alt="Foto perfil" />
                     <p>Heloá Vitória</p>
                 </div>
                 <div>
                     <article>
                         <h2>Ler</h2>
-                        <img src={habilidadeemLer} />
+                        <img src={habilidadeemLer} alt="Habilidade em ler" />
                         <p className='descrição'>
                             Eu leio livros fisicos e virtuais há mais de 4 anos.
                         </p>
                     </article>
                     <article>
                         <h2>Escrita</h2>
-                        <img src={habilidadeescrever} />
+                        <img src={habilidadeescrever} alt="Habilidade de escrever" />
                         <p className='descrição'>
                             Sou escritora de livros em uma plataforma digital há 1 ano.
                         </p>
